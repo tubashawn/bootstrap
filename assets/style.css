@@ -1,0 +1,12 @@
+/* .grad {
+    background: linear-gradient(rgba(80,80,80), rgba(255,0,0));
+} */
+
+.space{
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+
+.border {
+    border-bottom: 2px #555555 solid !important;
+}
