@@ -1,12 +1,51 @@
-/* .grad {
-    background: linear-gradient(rgba(80,80,80), rgba(255,0,0));
-} */
+
 
 .space{
     padding-left: 3%;
     padding-bottom: 3%;
 }
 
-.border {
+.head {
+    border-bottom: 2px #555 solid;
+}
+
+h2 {
     border-bottom: 2px #555555 solid !important;
+}
+
+body {
+    background-color: #622;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.around {
+    border: 2px #000 solid;
+}
+.banner {
+    position: absolute;
+    top: 70%;
+    background-color: rgba(100,100,100,.8);
+    height: 10%;
+    width: 100%;
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.main {
+    background-color:  #777;
+    border: 2px #555555 solid;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.foot {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-top: 2px #555 solid;
 }
