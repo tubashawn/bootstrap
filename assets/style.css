@@ -16,15 +16,18 @@ h2 {
 body {
     background-color: #622;
 }
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
 .container {
     position: relative;
     text-align: center;
     color: black;
 }
 
-.around {
-    border: 2px #000 solid;
-}
+
 .banner {
     position: absolute;
     top: 70%;
@@ -37,7 +40,7 @@ body {
 }
 
 .main {
-    background-color:  #777;
+    background-color:  #aaa;
     border: 2px #555555 solid;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 20px;
