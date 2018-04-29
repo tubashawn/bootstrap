@@ -46,6 +46,12 @@ img {
     font-size: 20px;
 }
 
+.custom {
+    color: #fff;
+    border: 2px #555 solid;
+    background-color: #622;
+}
+
 .foot {
     color: white;
     font-size: 20px;
